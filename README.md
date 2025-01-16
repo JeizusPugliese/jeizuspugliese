@@ -5,7 +5,7 @@
 ## Acerca de mí
 
 - **Nombre:** Jesús Pugliese
-- **Edad:** 19 años
+- **Edad:** 21 años
 - **Ubicación:** Colombia
 - **Intereses:** Ingeniería de Sistemas, desarrollo de software, programación, resolución de problemas, robótica, y desarrollo de videojuegos.
 
