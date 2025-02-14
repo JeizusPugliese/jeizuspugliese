@@ -7,7 +7,7 @@
 - **Nombre:** Jesús Pugliese
 - **Edad:** 21 años
 - **Ubicación:** Colombia
-- **Intereses:** Ingeniería de Sistemas, desarrollo de software, programación, resolución de problemas, robótica, y desarrollo de videojuegos.
+- **Intereses:** Ingeniería de Sistemas, desarrollo de software, programación, resolución de problemas, robótica, bases de datos y APIs.
 
 ## Sobre mí
 
@@ -21,8 +21,11 @@ Soy un apasionado de la ingeniería de sistemas y la programación. Me encanta e
   - Java
   - JavaScript
   - C++
+  - Python
+  - SQL
+  - AWS
 
-Me especializo en el desarrollo web, disfrutando especialmente trabajando con HTML y CSS para diseñar interfaces atractivas.
+Me especializo en ser FullStack, disfrutando especialmente trabajando con HTML y CSS para diseñar interfaces atractivas.
 
 ## Experiencia en la Comunidad
 
@@ -31,6 +34,9 @@ Me especializo en el desarrollo web, disfrutando especialmente trabajando con HT
 ## Intereses Adicionales
 
 - **Robótica:** Tengo un gran interés en el campo de la robótica y estoy explorando oportunidades para aprender y contribuir a proyectos emocionantes en este ámbito.
+
+- ## Intereses Adicionales
+- Me destaco mucho en todo lo relcionado con la base de datos.
 
 ## Futuros Proyectos
 
